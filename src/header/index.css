@@ -1,0 +1,32 @@
+.todo-head{
+    width: 430px;
+    height: 202px;
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.flowers{
+    position: relative;
+    display: flex;
+
+}
+
+.p-date{
+    font-size: 18px;
+    margin-left: 110px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.date-time{
+    position: absolute;
+    width: 220px;
+    margin-top: 114px;
+    margin-left: 200px;
+    font-size: 48px;
+    font-weight: 400;
+    color:#fff;
+}
